@@ -2,7 +2,7 @@
 
 **NumberCountingProgram** is a simple and interactive counter web app built with HTML, CSS, and JavaScript. It allows users to increase, decrease, or reset a number. Perfect for beginners learning basic web development, DOM manipulation, and event handling.
 
-![Counter Screenshot](picture/1.png)
+![Counter Screenshot](NumberCountingProgram/picture/1.png)
 
 ## 🚀 Features
 
