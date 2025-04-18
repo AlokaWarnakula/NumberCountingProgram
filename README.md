@@ -35,8 +35,4 @@ NumberCountingProgram/
 
 The image below shows the UI of the NumberCountingProgram.
 
-![Screenshot](picture/1.png)
-
----
-
 Enjoy counting! 😄
